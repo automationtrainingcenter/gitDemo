@@ -1,3 +1,6 @@
 c
 cpp
 java
+python
+selenium
+appium
